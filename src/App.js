@@ -13,6 +13,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>||Hello Thierry ^_^</h1>
     </div>
   );
 }
